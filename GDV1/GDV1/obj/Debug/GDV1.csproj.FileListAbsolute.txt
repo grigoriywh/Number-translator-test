@@ -1,0 +1,39 @@
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\GDV1.csproj.AssemblyReference.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\GDV1.Form1.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\Laboratory4.Properties.Resources.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\GDV1.csproj.GenerateResource.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\GDV1.csproj.CoreCompileInputs.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\Laboratory4.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\obj\Debug\Laboratory4.pdb
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\bin\Debug\Laboratory4.exe.config
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\bin\Debug\Laboratory4.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Laboratory4\Laboratory4\bin\Debug\Laboratory4.pdb
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.Form1.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.csproj.GenerateResource.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.csproj.CoreCompileInputs.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\bin\Debug\GDV1.exe.config
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\bin\Debug\GDV1.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\bin\Debug\GDV1.pdb
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.Properties.Resources.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\Laboratory4\Laboratory4\obj\Debug\GDV1.pdb
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.exe.config
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.pdb
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.AssemblyReference.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.Form1.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.Properties.Resources.resources
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.GenerateResource.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.CoreCompileInputs.cache
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.exe
+C:\Users\grigoriywh\Desktop\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.pdb
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.exe.config
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.exe
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\bin\Debug\GDV1.pdb
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.AssemblyReference.cache
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.Form1.resources
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.Properties.Resources.resources
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.GenerateResource.cache
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.csproj.CoreCompileInputs.cache
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.exe
+D:\ПИз-20\4 СЕМЕСТР\GD Балашов Г.С\Программа\GDV1\GDV1\obj\Debug\GDV1.pdb
